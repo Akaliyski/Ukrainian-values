@@ -5,6 +5,8 @@
 *specify the working directory containing the datasets 
 global path "SPECIFY YOUR WORKING DIRECTORY"
 
+*download the Joint EVS/WVS 2017-2022 data-set from the following link: https://www.worldvaluessurvey.org/WVSEVSjoint2017.jsp 
+
 *open the data file
 use "$path\EVS_WVS_Joint_v2_0", clear
 
